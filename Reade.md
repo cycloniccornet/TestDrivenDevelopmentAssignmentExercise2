@@ -143,5 +143,5 @@ I prefer mochito beacuse its easyer to swallow 😏😉.
 Jokes a side, i like the syntax better. It resembles more the syntax im used to from spring boot and 
 EasyMock requires you to EasyMock.replay EasyMock.verify every god damn time...\\
 
-To put it simply
+To put it simply\\\
 ![Monopoli](Monoploi.png) 
